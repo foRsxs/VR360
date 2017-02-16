@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">VR360</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">VR360_foRs</string>
+    <string name="title_activity_main2">VR Rooms</string>
+
+    <string name="title_section1">Создать группу</string>
+    <string name="title_section2">Присоединиться</string>
+    <string name="title_section3">Каталог</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

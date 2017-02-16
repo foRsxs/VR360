@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "473380898528",
+    "firebase_url": "https://vr360-57941.firebaseio.com",
+    "project_id": "vr360-57941",
+    "storage_bucket": "vr360-57941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473380898528:android:110ccb3f0f4393da",
+        "android_client_info": {
+          "package_name": "com.tonkor.vr360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473380898528-8d2k06sqipfgsn8r37maipcueit3kooi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcC_6K7iyY2xzZCfVM-HPU2PlTzzTjvA0"
+        },
+        {
+          "current_key": "AIzaSyCUB3cPuGQdHJLp1fTpRcIAQDqd8QtMON8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473380898528-8d2k06sqipfgsn8r37maipcueit3kooi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
